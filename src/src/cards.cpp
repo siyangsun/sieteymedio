@@ -198,7 +198,7 @@ void Hand::addCard(Card new_card) {
 }
 
 int Hand::getTotalVal() {
-
+	return 0;
 }
 
 
